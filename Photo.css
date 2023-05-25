@@ -1,0 +1,15 @@
+.image{
+    display:flex;
+    justify-content:center;
+    flex-wrap: wrap;
+
+}
+.selfie{
+
+display: inline-block;
+padding: 15px;
+width: 400px;
+height: auto;
+
+
+}
